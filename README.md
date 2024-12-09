@@ -4,7 +4,7 @@ Get_ME_Muscle Patreon in Next.js
 
 A Next.js-powered web application designed for fitness enthusiasts and creators. Get_ME_Muscle Patreon enables fitness coaches, trainers, and content creators to monetize their exclusive workout plans, diet charts, and training programs while engaging with supporters through a membership model.
 
-Features
+Features 
 Creator and Subscriber Roles:
 
 Creators: Share fitness content, manage subscription tiers, and connect with supporters.
